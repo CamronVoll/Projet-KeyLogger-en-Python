@@ -21,9 +21,9 @@
 
 - **Vol d’informations sensibles** (numéros de carte, données privées).
 
-# ⚠️ Je n’encourage en aucun cas son utilisation en dehors d’un cadre légal (tests de sécurité autorisés, apprentissage encadré, etc.).
+<h3 align="center">⚠️ Je n’encourage en aucun cas son utilisation en dehors d’un cadre légal (tests de sécurité autorisés, apprentissage encadré, etc.).</h3>
 
-<h3 align="left">Langages et outils :</h3>
+<h3 align="left">Langages et outils utilisés:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
